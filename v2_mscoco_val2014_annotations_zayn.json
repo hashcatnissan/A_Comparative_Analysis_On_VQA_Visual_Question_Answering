@@ -1428,186 +1428,188 @@
             "image_id": 369461,
             "answer_type": "other",
             "question_id": 369461002
-        },{
+        },
+        {
             "question_type": "are there",
             "multiple_choice_answer": "yes",
             "answers": [
-            {
-                "answer": "yes",
-                "answer_confidence": "yes",
-                "answer_id": 1
-            },
-            {
-                "answer": "yes",
-                "answer_confidence": "yes",
-                "answer_id": 2
-            },
-            {
-                "answer": "yes",
-                "answer_confidence": "yes",
-                "answer_id": 3
-            },
-            {
-                "answer": "yes",
-                "answer_confidence": "yes",
-                "answer_id": 4
-            },
-            {
-                "answer": "yes",
-                "answer_confidence": "yes",
-                "answer_id": 5
-            },
-            {
-                "answer": "yes",
-                "answer_confidence": "yes",
-                "answer_id": 6
-            },
-            {
-                "answer": "yes",
-                "answer_confidence": "yes",
-                "answer_id": 7
-            },
-            {
-                "answer": "yes",
-                "answer_confidence": "yes",
-                "answer_id": 8
-            },
-            {
-                "answer": "yes",
-                "answer_confidence": "yes",
-                "answer_id": 9
-            },
-            {
-                "answer": "yes",
-                "answer_confidence": "yes",
-                "answer_id": 10
-            }
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
             ],
             "image_id": 369470,
             "answer_type": "yes/no",
             "question_id": 369470000
-            },
-            {
+        },
+        {
             "question_type": "what",
             "multiple_choice_answer": "pay",
             "answers": [
-            {
-                "answer": "feed meter",
-                "answer_confidence": "yes",
-                "answer_id": 1
-            },
-            {
-                "answer": "put money in meter",
-                "answer_confidence": "yes",
-                "answer_id": 2
-            },
-            {
-                "answer": "pay meter",
-                "answer_confidence": "yes",
-                "answer_id": 3
-            },
-            {
-                "answer": "pay meter",
-                "answer_confidence": "yes",
-                "answer_id": 4
-            },
-            {
-                "answer": "put money in meter",
-                "answer_confidence": "yes",
-                "answer_id": 5
-            },
-            {
-                "answer": "pay",
-                "answer_confidence": "yes",
-                "answer_id": 6
-            },
-            {
-                "answer": "pay",
-                "answer_confidence": "yes",
-                "answer_id": 7
-            },
-            {
-                "answer": "pay",
-                "answer_confidence": "maybe",
-                "answer_id": 8
-            },
-            {
-                "answer": "buy time",
-                "answer_confidence": "yes",
-                "answer_id": 9
-            },
-            {
-                "answer": "pay",
-                "answer_confidence": "yes",
-                "answer_id": 10
-            }
+                {
+                    "answer": "feed meter",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "put money in meter",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "pay meter",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "pay meter",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "put money in meter",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "pay",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "pay",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "pay",
+                    "answer_confidence": "maybe",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "buy time",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "pay",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
             ],
             "image_id": 369470,
             "answer_type": "other",
             "question_id": 369470001
-            },
-            {
+        },
+        {
             "question_type": "do",
             "multiple_choice_answer": "no",
             "answers": [
-            {
-                "answer": "no",
-                "answer_confidence": "yes",
-                "answer_id": 1
-            },
-            {
-                "answer": "no",
-                "answer_confidence": "yes",
-                "answer_id": 2
-            },
-            {
-                "answer": "no",
-                "answer_confidence": "yes",
-                "answer_id": 3
-            },
-            {
-                "answer": "no",
-                "answer_confidence": "yes",
-                "answer_id": 4
-            },
-            {
-                "answer": "no",
-                "answer_confidence": "yes",
-                "answer_id": 5
-            },
-            {
-                "answer": "no",
-                "answer_confidence": "yes",
-                "answer_id": 6
-            },
-            {
-                "answer": "no",
-                "answer_confidence": "yes",
-                "answer_id": 7
-            },
-            {
-                "answer": "no",
-                "answer_confidence": "yes",
-                "answer_id": 8
-            },
-            {
-                "answer": "no",
-                "answer_confidence": "yes",
-                "answer_id": 9
-            },
-            {
-                "answer": "no",
-                "answer_confidence": "maybe",
-                "answer_id": 10
-            }
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "maybe",
+                    "answer_id": 10
+                }
             ],
             "image_id": 369470,
             "answer_type": "yes/no",
             "question_id": 369470002
-            },{
-                "answer_type": "other",
-                "multiple_choice_answer": "stop",
-                "answers": [
+        },
+        {
+            "answer_type": "other",
+            "multiple_choice_answer": "stop",
+            "answers": [
                 {
                     "answer": "stop",
                     "answer_confidence": "yes",
@@ -1658,15 +1660,15 @@
                     "answer_confidence": "yes",
                     "answer_id": 10
                 }
-                ],
-                "image_id": 369482,
-                "question_type": "what does the",
-                "question_id": 369482000
-                },
-                {
-                "answer_type": "other",
-                "multiple_choice_answer": "red",
-                "answers": [
+            ],
+            "image_id": 369482,
+            "question_type": "what does the",
+            "question_id": 369482000
+        },
+        {
+            "answer_type": "other",
+            "multiple_choice_answer": "red",
+            "answers": [
                 {
                     "answer": "red",
                     "answer_confidence": "yes",
@@ -1717,15 +1719,15 @@
                     "answer_confidence": "yes",
                     "answer_id": 10
                 }
-                ],
-                "image_id": 369482,
-                "question_type": "what is the color of the",
-                "question_id": 369482001
-                },
-                {
-                "question_type": "what",
-                "multiple_choice_answer": "winter",
-                "answers": [
+            ],
+            "image_id": 369482,
+            "question_type": "what is the color of the",
+            "question_id": 369482001
+        },
+        {
+            "question_type": "what",
+            "multiple_choice_answer": "winter",
+            "answers": [
                 {
                     "answer": "winter",
                     "answer_confidence": "yes",
@@ -1776,15 +1778,15 @@
                     "answer_confidence": "yes",
                     "answer_id": 10
                 }
-                ],
-                "image_id": 369482,
-                "answer_type": "other",
-                "question_id": 369482002
-                },
-                {
-                "question_type": "what is the",
-                "multiple_choice_answer": "cold",
-                "answers": [
+            ],
+            "image_id": 369482,
+            "answer_type": "other",
+            "question_id": 369482002
+        },
+        {
+            "question_type": "what is the",
+            "multiple_choice_answer": "cold",
+            "answers": [
                 {
                     "answer": "cold",
                     "answer_confidence": "yes",
@@ -1835,15 +1837,15 @@
                     "answer_confidence": "yes",
                     "answer_id": 10
                 }
-                ],
-                "image_id": 369482,
-                "answer_type": "other",
-                "question_id": 369482003
-                },
-                {
-                "answer_type": "yes/no",
-                "multiple_choice_answer": "yes",
-                "answers": [
+            ],
+            "image_id": 369482,
+            "answer_type": "other",
+            "question_id": 369482003
+        },
+        {
+            "answer_type": "yes/no",
+            "multiple_choice_answer": "yes",
+            "answers": [
                 {
                     "answer": "yes",
                     "answer_confidence": "yes",
@@ -1894,15 +1896,15 @@
                     "answer_confidence": "yes",
                     "answer_id": 10
                 }
-                ],
-                "image_id": 369482,
-                "question_type": "is the",
-                "question_id": 369482004
-                },
-                {
-                "question_type": "what",
-                "multiple_choice_answer": "left",
-                "answers": [
+            ],
+            "image_id": 369482,
+            "question_type": "is the",
+            "question_id": 369482004
+        },
+        {
+            "question_type": "what",
+            "multiple_choice_answer": "left",
+            "answers": [
                 {
                     "answer": "left",
                     "answer_confidence": "yes",
@@ -1953,15 +1955,15 @@
                     "answer_confidence": "yes",
                     "answer_id": 10
                 }
-                ],
-                "image_id": 369482,
-                "answer_type": "other",
-                "question_id": 369482005
-                },
-                {
-                "answer_type": "yes/no",
-                "multiple_choice_answer": "yes",
-                "answers": [
+            ],
+            "image_id": 369482,
+            "answer_type": "other",
+            "question_id": 369482005
+        },
+        {
+            "answer_type": "yes/no",
+            "multiple_choice_answer": "yes",
+            "answers": [
                 {
                     "answer": "yes",
                     "answer_confidence": "yes",
@@ -2012,11 +2014,1132 @@
                     "answer_confidence": "yes",
                     "answer_id": 10
                 }
-                ],
-                "image_id": 369482,
-                "question_type": "are",
-                "question_id": 369482006
+            ],
+            "image_id": 369482,
+            "question_type": "are",
+            "question_id": 369482006
+        },
+        {
+            "answer_type": "number",
+            "multiple_choice_answer": "2",
+            "answers": [
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
                 },
+                {
+                    "answer": "3",
+                    "answer_confidence": "maybe",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369485,
+            "question_type": "how many",
+            "question_id": 369485000
+        },
+        {
+            "question_type": "how many",
+            "multiple_choice_answer": "2",
+            "answers": [
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "2",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369485,
+            "answer_type": "number",
+            "question_id": 369485001
+        },
+        {
+            "answer_type": "other",
+            "multiple_choice_answer": "bathroom",
+            "answers": [
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "bath",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369485,
+            "question_type": "what",
+            "question_id": 369485002
+        },
+        {
+            "answer_type": "other",
+            "multiple_choice_answer": "white",
+            "answers": [
+                {
+                    "answer": "white",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "white",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "orange and white",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "red",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "red, and white",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "checkerboard",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "white",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "white",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "brown and white",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "orange",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369485,
+            "question_type": "what color is the",
+            "question_id": 369485003
+        },
+        {
+            "answer_type": "other",
+            "multiple_choice_answer": "bathroom",
+            "answers": [
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "maybe",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369485,
+            "question_type": "what room is",
+            "question_id": 369485004
+        },
+        {
+            "answer_type": "yes/no",
+            "multiple_choice_answer": "yes",
+            "answers": [
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "maybe",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "maybe",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "maybe",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "maybe",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "maybe",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369485,
+            "question_type": "is the",
+            "question_id": 369485005
+        },
+        {
+            "question_type": "what",
+            "multiple_choice_answer": "checkered",
+            "answers": [
+                {
+                    "answer": "checkered",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "checkered",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "checkered",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "checkered",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "checkered",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "checkered",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "checkers",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "checkered",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "checkerboard",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "checkered",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369485,
+            "answer_type": "other",
+            "question_id": 369485006
+        },
+        {
+            "question_type": "what type of",
+            "multiple_choice_answer": "bathroom",
+            "answers": [
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "bathroom",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369485,
+            "answer_type": "other",
+            "question_id": 369485007
+        },
+        {
+            "answer_type": "other",
+            "multiple_choice_answer": "tile",
+            "answers": [
+                {
+                    "answer": "nothing",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "tile",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "tile",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "tile",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "nothing",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "tile",
+                    "answer_confidence": "maybe",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "tile",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "nothing",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "tile",
+                    "answer_confidence": "maybe",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "nothing",
+                    "answer_confidence": "maybe",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369485,
+            "question_type": "what is",
+            "question_id": 369485008
+        },
+        {
+            "answer_type": "yes/no",
+            "multiple_choice_answer": "no",
+            "answers": [
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "maybe",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "maybe",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369503,
+            "question_type": "is",
+            "question_id": 369503000
+        },
+        {
+            "question_type": "is the",
+            "multiple_choice_answer": "yes",
+            "answers": [
+                {
+                    "answer": "yes",
+                    "answer_confidence": "maybe",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "maybe",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "yes",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369503,
+            "answer_type": "yes/no",
+            "question_id": 369503001
+        },
+        {
+            "answer_type": "other",
+            "multiple_choice_answer": "floor",
+            "answers": [
+                {
+                    "answer": "on floor",
+                    "answer_confidence": "maybe",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "floor",
+                    "answer_confidence": "maybe",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "floor",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "floor",
+                    "answer_confidence": "maybe",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "floor",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "floor",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "floor",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "floor",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "floor",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "on floor",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369503,
+            "question_type": "none of the above",
+            "question_id": 369503002
+        },
+        {
+            "question_type": "are the",
+            "multiple_choice_answer": "no",
+            "answers": [
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369503,
+            "answer_type": "yes/no",
+            "question_id": 369503003
+        },
+        {
+            "question_type": "what is the",
+            "multiple_choice_answer": "dishwasher",
+            "answers": [
+                {
+                    "answer": "dishwasher",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "dishwasher",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "dishwasher",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "dishwasher",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "dishwasher",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "dishwasher",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "dishwasher",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "dishwasher",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "dishwasher",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "dishwasher",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369503,
+            "answer_type": "other",
+            "question_id": 369503004
+        },
+        {
+            "question_type": "what is the",
+            "multiple_choice_answer": "sunny",
+            "answers": [
+                {
+                    "answer": "sunny",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "fair",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "partly cloudy",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "sunny",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "partly sunny",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "sunny",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "partly cloudy",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "partly cloudy",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "sunny",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "sunny",
+                    "answer_confidence": "maybe",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369506,
+            "answer_type": "other",
+            "question_id": 369506000
+        },
+        {
+            "question_type": "what time",
+            "multiple_choice_answer": "4:15",
+            "answers": [
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "4:15 pm",
+                    "answer_confidence": "maybe",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "05:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "maybe",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369506,
+            "answer_type": "number",
+            "question_id": 369506001
+        },
+        {
+            "answer_type": "number",
+            "multiple_choice_answer": "4:15",
+            "answers": [
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "maybe",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "4:15",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369506,
+            "question_type": "what time",
+            "question_id": 369506002
+        },
+        {
+            "question_type": "what animal is",
+            "multiple_choice_answer": "eagle",
+            "answers": [
+                {
+                    "answer": "eagle",
+                    "answer_confidence": "maybe",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "eagle",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "eagle",
+                    "answer_confidence": "yes",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "eagle",
+                    "answer_confidence": "yes",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "hawk",
+                    "answer_confidence": "maybe",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "bird",
+                    "answer_confidence": "yes",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "eagle",
+                    "answer_confidence": "no",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "eagle",
+                    "answer_confidence": "maybe",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "eagle",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "hawk",
+                    "answer_confidence": "yes",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369506,
+            "answer_type": "other",
+            "question_id": 369506003
+        },
+        {
+            "answer_type": "other",
+            "multiple_choice_answer": "neither",
+            "answers": [
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 1
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "yes",
+                    "answer_id": 2
+                },
+                {
+                    "answer": "no",
+                    "answer_confidence": "no",
+                    "answer_id": 3
+                },
+                {
+                    "answer": "woman",
+                    "answer_confidence": "no",
+                    "answer_id": 4
+                },
+                {
+                    "answer": "neither",
+                    "answer_confidence": "yes",
+                    "answer_id": 5
+                },
+                {
+                    "answer": "man",
+                    "answer_confidence": "no",
+                    "answer_id": 6
+                },
+                {
+                    "answer": "neither",
+                    "answer_confidence": "yes",
+                    "answer_id": 7
+                },
+                {
+                    "answer": "eagle",
+                    "answer_confidence": "maybe",
+                    "answer_id": 8
+                },
+                {
+                    "answer": "neither",
+                    "answer_confidence": "yes",
+                    "answer_id": 9
+                },
+                {
+                    "answer": "eagle",
+                    "answer_confidence": "no",
+                    "answer_id": 10
+                }
+            ],
+            "image_id": 369506,
+            "question_type": "is there a",
+            "question_id": 369506004
+        },
     ],
     "data_type": "mscoco"
 }
